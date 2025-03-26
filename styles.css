@@ -118,6 +118,10 @@ body {
     color: hsl(228, 70%, 50%);
 } 
 
+.attribution h2 {
+    display: none;
+}
+
 /* Media Queries */
 
 @media (min-width: 768px) {
