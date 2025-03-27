@@ -123,17 +123,3 @@ body {
 .attribution h2 {
     display: none;
 }
-
-/* Media Queries */
-
-@media (min-width: 768px) {
-    .card {
-    max-width: 400px;
-    }
-}
-
-@media (min-width: 1024px) {
-    .card {
-    max-width: 500px;
-    }
-}
