@@ -59,6 +59,7 @@ Here’s a code example of my hover effect implementation:
       transform: translateY(-5px);
       transition: all 0.3s ease-in-out;
   }
+  ```
 
 ### Continued development
 
